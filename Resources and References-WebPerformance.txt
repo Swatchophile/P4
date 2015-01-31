@@ -1,0 +1,34 @@
+References and resources used for P4 - Website Optimization Project:
+
+Book:
+
+The Performance section in Chapter 24 - Best Practices, from the book-
+"Professional JavaScript for Web Developers", 3rd Ed, Nicholas C. Zakas
+
+Courses:
+
+Udacity's Website Performance Optimization course
+
+Online Resources:
+
+https://developers.google.com/web/fundamentals/performance/critical-rendering-path/
+https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
+http://www.sitepoint.com/optimizing-critical-rendering-path/
+http://www.w3.org/TR/user-timing/
+http://www.smashingmagazine.com/2010/01/06/page-performance-what-to-know-and-what-you-can-do/
+http://www.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/
+http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/
+http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/
+http://www.html5rocks.com/en/tutorials/speed/rendering/
+http://www.html5rocks.com/en/tutorials/speed/scrolling/
+http://davidwalsh.name/translate3d
+
+
+For image compression:
+
+compressor.io
+
+Piazza:
+
+Looked at many project-related threads on Piazza, particularly Dawoon Choi's post on
+and screenshot of the FPS graph.
