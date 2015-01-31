@@ -30,5 +30,4 @@ compressor.io
 
 Piazza:
 
-Looked at many project-related threads on Piazza, particularly Dawoon Choi's post on
-and screenshot of the FPS graph.
+Looked at many project-related threads on Piazza
