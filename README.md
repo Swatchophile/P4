@@ -72,3 +72,6 @@ resources after initial loading of content using a JS function
 -Used the media attribute (print and portrait) in the css links where applicable
 
 -Loaded JS files asynchronously where possible by using the async attribute
+
+---
+"I hereby confirm that this submission is my work and that I am abiding by guidelines within the Student Code of Conduct in the Nanodegree student handbook."
